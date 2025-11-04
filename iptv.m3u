@@ -3,3 +3,5 @@
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия (HD)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия2 (HD)
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
